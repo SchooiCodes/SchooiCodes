@@ -1,4 +1,4 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<h1 align="center"><img src="/github-metrics.svg" alt="Metrics" width="500"></p>
 
 <div align="center">
   <a href="https://discord.com/users/749226175687295028" target="_blank">
